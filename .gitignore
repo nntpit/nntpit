@@ -1,0 +1,6 @@
+*.db
+*.db-shm
+*.db-wal
+nntpit.conf
+nntpit
+nntpit.exe
